@@ -7,7 +7,7 @@
     <title>Document</title>
     <!-- <link rel="stylesheet" href="style0423.css"> -->
     <style>
-        * {
+        body {
             background: black;
             color: white;
         }
