@@ -11,6 +11,9 @@
             background: black;
             color: white;
         }
+                img {
+            width: 100%;
+        }
     </style>
 </head>
 
