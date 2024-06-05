@@ -7,7 +7,7 @@
     <title>Document</title>
     <!-- <link rel="stylesheet" href="style0423.css"> -->
     <style>
-        * {
+        body {
             background: black;
             color: white;
         }
@@ -19,6 +19,9 @@
 
     <h1>Hi</h1>
   <p>yutakure.github.io</p>
+
+      <img src="https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-mount-fuji-free-photo.jpg" alt="">
+
 
 
 
